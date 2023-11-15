@@ -1,0 +1,2 @@
+C:\Users\kaleb\source\repos\kalebbroo\lobby_directory\obj\x86\Debug\directory.csprojAssemblyReference.cache
+C:\Users\kaleb\source\repos\kalebbroo\lobby_directory\obj\x86\Debug\directory.csproj.CoreCompileInputs.cache
